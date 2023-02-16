@@ -9,7 +9,8 @@ HTML
 CSS
 BootStrap
 ---
-#Description
+#
+
 
 
 Built out an app that connects to a SQL database where users can login and register for the recipe share.
